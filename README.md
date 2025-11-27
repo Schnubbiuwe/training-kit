@@ -1,6 +1,6 @@
 # GitHub Training Kit
 
-Open source courseware from the GitHub Professional Services team.
+1. Test
 
 ## We ❤️ contributors like you
 
